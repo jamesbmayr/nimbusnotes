@@ -92,9 +92,9 @@
 								<meta name="keywords" content="rain, clouds, music"/>\
 								<meta name="author" content="Elizabeth Ford & James Mayr"/>\
 								<meta property="og:title" content="nimbusnotes: a multiplayer raining sound experience"/>\
-								<meta property="og:url" content="https://nimbusnotes.onrender.com"/>\
+								<meta property="og:url" content="https://jamesmayr.com/nimbusnotes"/>\
 								<meta property="og:description" content="nimbusnotes is a multiplayer raining sound experience."/>\
-								<meta property="og:image" content="https://nimbusnotes.onrender.com/logo.png"/>\
+								<meta property="og:image" content="https://jamesmayr.com/nimbusnotes/banner.png"/>\
 								<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>'
 					break
 
